@@ -1,0 +1,10 @@
+Jennifer Kohl – Helfen · Schützen · Erinnern
+Vollständiges Android-Projekt mit Jennys Foto als App-Symbol.
+Startseite: https://backpacker-hilfe.de/
+
+Dieses ZIP ist KEINE installierbare APK.
+In GitHub müssen die Dateien und Ordner aus diesem ZIP im Repository-Stamm liegen (nicht die ZIP selbst und nicht der äußere Ordner).
+Die enthaltene Datei .github/workflows/android-apk.yml startet über GitHub Actions einen APK-Bau.
+Nach erfolgreichem Lauf: Actions > Android-App mit Jennys Bild erstellen > letzter erfolgreicher Lauf > Artifacts > Jennifer-Kohl-App-mit-Jennys-Bild.
+Vor der Verteilung die APK auf einem Android-Gerät installieren und das Symbol prüfen.
+Eine alte App mit anderer Signatur muss gegebenenfalls vor der Installation deinstalliert werden.
