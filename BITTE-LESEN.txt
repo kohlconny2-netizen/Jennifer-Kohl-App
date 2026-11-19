@@ -1,0 +1,7 @@
+Jennifer Kohl – Helfen · Schützen · Erinnern
+
+Dies ist der Android-Projektordner mit Jennys Foto als App-Symbol.
+Die App öffnet https://backpacker-hilfe.de/.
+Dies ist KEINE installierbare APK. Zum Erstellen der APK wird Android Studio mit Android SDK benötigt.
+Nicht als APK umbenennen und nicht als installierbare App veröffentlichen.
+Hinweis: Eine Neuinstallation kann erforderlich sein, wenn die bisherige APK mit einem anderen Signaturschlüssel erstellt wurde.
